@@ -1,1 +1,5 @@
-# Tetris(디비를 로컬에서 구축한 관계로 사용이 불가하여 로그인 기능 잠시 삭제해둠)
+# Tetris
+## MFC기반 테트리스 게임
+
+![스크린샷(21)](https://user-images.githubusercontent.com/55998706/160973331-7dc5cd1f-402c-4a27-aa76-179f07d39c63.png)
+### [메인]
