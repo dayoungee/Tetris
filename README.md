@@ -1,7 +1,6 @@
 # Tetris
-## MFC를 활용한 다이얼로그 기반, 테트리스 게임
-
-![스크린샷(21)](https://user-images.githubusercontent.com/55998706/160973331-7dc5cd1f-402c-4a27-aa76-179f07d39c63.png)
+2020.02(1인 개발 프로젝트)
+<img src="https://user-images.githubusercontent.com/55998706/160973331-7dc5cd1f-402c-4a27-aa76-179f07d39c63.png"  width="400" height="600"/>
 #### [메인]
 ### F2키로 배경음악 재생, 정지 기능 구현
 
